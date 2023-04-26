@@ -1,13 +1,13 @@
 <template>
     <footer>
         <div class="" id="footer-top">
-            <div class="container">
+            <div class="ms-container mx-auto">
                 footer-top
             </div>
             
         </div>
         <div id="footer-bottom">
-            <div class="container">
+            <div class="ms-container mx-auto">
                 footer-bottom
             </div>
             

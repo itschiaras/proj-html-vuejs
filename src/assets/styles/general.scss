@@ -4,3 +4,17 @@ $fa-font-path: '../webfonts';
 @import '@fortawesome/fontawesome-free/scss/regular.scss';
 
 @import 'bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300;400;700&display=swap');
+
+.ms-container {
+    width: 950px;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+:root {
+    --primary-color: #be9359;
+    
+}

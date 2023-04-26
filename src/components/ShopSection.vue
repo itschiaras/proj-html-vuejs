@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="ms-container mx-auto">
         Shop
     </div>
 </template>
