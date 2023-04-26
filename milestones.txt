@@ -1,0 +1,15 @@
+MILESTONE 1 
+-Studiare il mockup e suddividerlo prima in macrosezioni (header, main e footer) e in seguito scendere nel dettaglio di ogni macrosezione suddividendola in sotto-sezioni creando i rispettivi componenti quando necessario.
+-Creare arrays in store.js da inserire dinamicamente dove necessario (es: menù header, card ecc..)
+
+MILESTONE 2 
+-Realizzare macro-struttura del layout grafico, quando è tutto ben strutturato passare alla realizzazione grafica nel dettaglio per ogni sezione.
+
+MILESTONE 3
+-Popolare dinamicamente, grazie alle strutture dati precedentemente create:
+    menù header,
+    card in Services Section,
+    card in Shop Section,
+    card in Reviews Section,
+    card in Blog Section,
+    menù social nel footer.
