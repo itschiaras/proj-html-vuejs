@@ -40,6 +40,11 @@ export default {
     color: white;
 }
 
+#services {
+    height: 650px;
+    position: relative;
+}
+
 #shop {
     background-image: url(../assets/images/avadabarbers-reviewsbackground.jpg);
     color: white;

@@ -36,7 +36,7 @@ const services = [
     {
         src: 'avadabarbers-beardtrim-icon.png',
         title: 'Beard Tidy',
-        text: 'Tame the tangles and untidy facial hairs like a gentleman with our Beard Tidy services from Avada Barbers.Take a seat in our fine leather chairs, lean back and let us lather you a fresh head in a luxurious fashion.'
+        text: 'Tame the tangles and untidy facial hairs like a gentleman with our Beard Tidy services from Avada Barbers.'
     }
 ]
 
@@ -64,34 +64,38 @@ const products = [
 ]
 
 const reviews = [
-    text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.',
     {
         src: 'avadabarbers-trimcut-gallery6-200x200.jpg',
-        name: 'John Doe'
+        name: 'John Doe',
+        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
     },
     {
         src: 'avadabarbers-trimcut-gallery7-200x201.jpg',
-        name: 'Pete Johns'
+        name: 'Pete Johns',
+        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
     },
     {
         src: 'avadabarbers-trimcut-gallery3-200x201.jpg',
-        name: 'Mark Wilson'
+        name: 'Mark Wilson',
+        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
     }
 ]
 
 const posts = [
-    text = 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!',
     {
         src: 'avadabarbers-second-blog-700x441.jpg',
-        title: 'Avada Barbers Now Open'
+        title: 'Avada Barbers Now Open',
+        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
     },
     {
         src: 'avadabarbers-choosing-blog-700x441.jpg',
-        title: 'Choosing The Right Barber'
+        title: 'Choosing The Right Barber',
+        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
     },
     {
         src: 'avadabarbers-ourservice-blog-700x441.jpg',
-        title: 'Quick Service Guide'
+        title: 'Quick Service Guide',
+        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
     }
 ]
 

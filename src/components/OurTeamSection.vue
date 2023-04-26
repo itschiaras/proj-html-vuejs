@@ -19,10 +19,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-h2 {
-    font-size: 4rem;
-    color: #b0b0b0;
-}
 
 p {
     color: var(--primary-color);

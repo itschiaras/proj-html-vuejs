@@ -16,9 +16,19 @@ $fa-font-path: '../webfonts';
 
 :root {
     --primary-color: #be9359;
+    --secondary-color: #b0b0b0;
 
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Abril Fatface', cursive;
+}
+
+h2 {
+    font-size: 4rem;
+    color: var(--secondary-color);
+}
+
+h3 {
+    color: var(--primary-color)
 }
