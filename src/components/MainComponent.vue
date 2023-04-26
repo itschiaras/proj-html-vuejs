@@ -34,6 +34,9 @@ export default {
 <style lang="scss" scoped>
 #ourTeam {
     background-image: url(../assets/images/avadabarbers-about-introbackground.jpg);
+    background-size: cover;
+    height: 400px;
+    position: relative;
     color: white;
 }
 

@@ -1,6 +1,6 @@
 <template>
     <a href="" class="text-uppercase">
-        <p class="m-0">{{ text }}</p>
+        <span>{{ text }}</span>
     </a>
 </template>
 
