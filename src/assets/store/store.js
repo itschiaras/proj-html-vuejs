@@ -99,20 +99,20 @@ const posts = [
     }
 ]
 
-const social = [
+const socials = [
     {
-        icon: '<i class="fa-brands fa-facebook"></i>'
+        icon: 'fa-brands fa-facebook'
     },
     {
-        icon: '<i class="fa-brands fa-twitter"></i>'
+        icon: 'fa-brands fa-twitter'
     },
     {
-        icon: '<i class="fa-brands fa-instagram"></i>'
+        icon: 'fa-brands fa-instagram'
     },
     {
-        icon: '<i class="fa-brands fa-youtube"></i>'
+        icon: 'fa-brands fa-youtube'
     }
     
 ]
 
-export {headerLinks, services, products, reviews, posts, social}
+export {headerLinks, services, products, reviews, posts, socials}
