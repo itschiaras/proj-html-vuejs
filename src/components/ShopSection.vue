@@ -24,10 +24,10 @@
                     <div class="col-5 bg-shop d-flex align-items-center">
                         <img src="../assets/images/shaving_butter-600x600.png" alt="" class="img-fluid">
                     </div>
-                    <div class="col p-5 d-flex align-items-center">
+                    <div class="col p-5 pe-4 d-flex align-items-center">
                         <div>
                             <p class="text-uppercase m-0">this month featured product</p>
-                            <h2>Shaving butter</h2>
+                            <h2>Shaving Butter</h2>
                             <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque laoreet enim est, vel molestie dolor ultrices ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
                             <div class="mt-5">
                                 <CustomizedButton :text="'buy now'"/>

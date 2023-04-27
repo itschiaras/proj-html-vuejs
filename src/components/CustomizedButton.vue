@@ -13,7 +13,7 @@
 
 <style lang="scss" scoped>
 a {
-    border: 1px solid var(--primary-color);
+    border: 2px solid var(--primary-color);
     text-decoration: none;
     color: var(--primary-color);
     padding: .8rem 2rem;

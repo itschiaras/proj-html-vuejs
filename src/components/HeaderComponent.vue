@@ -98,14 +98,16 @@ header {
 
     .offcanvas {
         background-color: #121212;
-    }
 
-    a {
-        text-decoration: none;
-        color: white;
-        &:hover {
-            color: var(--primary-color);
+        a {
+            text-decoration: none;
+            color: white;
+            &:hover {
+                color: var(--primary-color);
+            }
         }
     }
+
+
 }
 </style>

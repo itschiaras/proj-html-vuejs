@@ -67,17 +67,17 @@ const reviews = [
     {
         src: 'avadabarbers-trimcut-gallery6-200x200.jpg',
         name: 'John Doe',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis eleifend ante ut sagittis. Sed sodales, urna et imperdiet placerat, ex nisi aliquam orci, ac varius odio libero et arcu.'
     },
     {
         src: 'avadabarbers-trimcut-gallery7-200x201.jpg',
-        name: 'Pete Johns',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
+        name: 'Pete Jones',
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis eleifend ante ut sagittis. Sed sodales, urna et imperdiet placerat, ex nisi aliquam orci, ac varius odio libero et arcu.'
     },
     {
         src: 'avadabarbers-trimcut-gallery3-200x201.jpg',
         name: 'Mark Wilson',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, perspiciatis necessitatibus eius repudiandae tenetur aliquam voluptatibus nobis dolores quaerat dolorum molestiae officiis totam sint, ducimus provident magnam, ad amet veritatis.'
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis eleifend ante ut sagittis. Sed sodales, urna et imperdiet placerat, ex nisi aliquam orci, ac varius odio libero et arcu.'
     }
 ]
 

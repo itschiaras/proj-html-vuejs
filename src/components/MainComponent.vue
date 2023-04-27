@@ -54,4 +54,9 @@ export default {
 #blogPosts {
     background-color: #f5f5f5;
 }
+
+#reviews {
+    padding-top: 25rem;
+    padding-bottom: 5rem;
+}
 </style>
