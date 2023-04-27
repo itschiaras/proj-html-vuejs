@@ -85,17 +85,17 @@ const posts = [
     {
         src: 'avadabarbers-second-blog-700x441.jpg',
         title: 'Avada Barbers Now Open',
-        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut dapibus magna. Praesent semper.'
     },
     {
         src: 'avadabarbers-choosing-blog-700x441.jpg',
         title: 'Choosing The Right Barber',
-        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut dapibus magna. Praesent semper.'
     },
     {
         src: 'avadabarbers-ourservice-blog-700x441.jpg',
         title: 'Quick Service Guide',
-        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum delectus nam esse laboriosam nesciunt ullam vel voluptatibus vero, eum perferendis!'
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut dapibus magna. Praesent semper.'
     }
 ]
 

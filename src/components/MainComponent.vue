@@ -53,6 +53,9 @@ export default {
 
 #blogPosts {
     background-color: #f5f5f5;
+    position: relative;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
 }
 
 #reviews {
