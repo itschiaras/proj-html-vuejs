@@ -37,7 +37,6 @@ export default {
     background-size: cover;
     height: 400px;
     position: relative;
-    color: white;
 }
 
 #services {
@@ -47,7 +46,9 @@ export default {
 
 #shop {
     background-image: url(../assets/images/avadabarbers-reviewsbackground.jpg);
-    color: white;
+    background-size: cover;
+    height: 800px;
+    position: relative;
 }
 
 #blogPosts {

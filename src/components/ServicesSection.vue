@@ -14,19 +14,12 @@
                     </div>
                 </div>
                 <div class="text-center mt-5 mb-6">
-                <CustomizedButton :text="'read about our services'" />
-
+                    <CustomizedButton :text="'read about our services'" />
+                </div>
             </div>
-            </div>
-            
-            
-
         </div>
         <div id="triangle">
-            </div>
-
-
-
+        </div>
     </div>
 </template>
 
@@ -70,8 +63,8 @@ span {
     width: 100%;
     position: absolute;
     bottom: 0;
-    left:0;
-    filter: invert(100%);
+    left: 0;
+    filter: invert(94%) sepia(2%) saturate(3523%) hue-rotate(191deg) brightness(98%) contrast(97%);
 }
 
 .mb-6 {
