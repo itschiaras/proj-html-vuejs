@@ -23,8 +23,8 @@
                             </p>
                             <p class="follow text-uppercase m-0">follow us</p>
                             <div class="d-flex social-list">
-                                <ul v-for="social in socials" class="list-unstyled">
-                                    <SocialComponent :icon="social.icon"/>
+                                <ul class="list-unstyled d-flex gap-2 w-50">
+                                    <SocialComponent :icon="social.icon" v-for="social in socials"/>
                                 </ul>
                             </div>
                         </div>

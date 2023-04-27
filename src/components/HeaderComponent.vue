@@ -17,10 +17,8 @@
                                 aria-label="Close" id="closeBtn">X</button>
                         </div>
                         <div class="offcanvas-body d-flex justify-content-center align-items-center">
-                            <ul class="list-unstyled">
-                                <li v-for="link in headerLinks" class="mb-3">
-                                    <a href="">{{ link.text }}</a>
-                                </li>
+                            <ul class="list-unstyled d-flex flex-column">
+                                <NavLinks v-for="link in headerLinks" :link="link.text"/>
                             </ul>
                         </div>
                     </div>
@@ -46,9 +44,10 @@
 <script>
 import CustomizedButton from '../components/CustomizedButton.vue'
 import { headerLinks } from '../assets/store/store'
+import NavLinks from './NavLinks.vue';
 export default {
     name: 'HeaderComponent',
-    components: { CustomizedButton },
+    components: { CustomizedButton, NavLinks },
     data() {
         return {
             headerLinks: [...headerLinks]
@@ -98,14 +97,6 @@ header {
 
     .offcanvas {
         background-color: #121212;
-
-        a {
-            text-decoration: none;
-            color: white;
-            &:hover {
-                color: var(--primary-color);
-            }
-        }
     }
 
 

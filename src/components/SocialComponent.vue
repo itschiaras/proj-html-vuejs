@@ -1,5 +1,5 @@
 <template>
-    <li class="d-flex justify-content-center">
+    <li>
         <a href="">
             <i :class="`${icon}`"></i>
         </a>
