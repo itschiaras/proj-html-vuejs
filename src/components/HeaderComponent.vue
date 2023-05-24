@@ -27,7 +27,7 @@
             </nav>
             <div class="d-flex">
                 <div class="w-50 d-flex flex-column justify-content-center align-items-start">
-                    <h1>Barber Shop</h1>
+                    <h1 class="animate__animated animate__bounceInLeft">Barber Shop</h1>
                     <hr class="w-50">
                     <p>The Pinnacole of Male Grooming</p>
                     <CustomizedButton :text="'learn more'" />

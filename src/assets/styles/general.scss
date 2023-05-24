@@ -33,3 +33,7 @@ h2 {
 h3 {
     color: var(--primary-color)
 }
+
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 2s;
+  }

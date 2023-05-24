@@ -17,5 +17,8 @@
 a {
     text-decoration: none;
     color: var(--secondary-color);
+    &:hover {
+        color: white;
+    }
 }
 </style>
